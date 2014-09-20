@@ -2,8 +2,8 @@ require 'formula'
 
 class StoneSoup < Formula
   homepage 'http://crawl.develz.org/'
-  url 'http://downloads.sourceforge.net/project/crawl-ref/Stone%20Soup/0.15.0/stone_soup-0.15.0.tar.xz'
-  sha1 'f010051a5798aeb431fa20e49aca729e4962609e'
+  url 'http://downloads.sourceforge.net/project/crawl-ref/Stone%20Soup/0.15.1/stone_soup-0.15.1.tar.xz'
+  sha1 '5f15923a17272b7819e1a548c7d19dc9e96f8134'
 
   depends_on 'xz' => :build
 
